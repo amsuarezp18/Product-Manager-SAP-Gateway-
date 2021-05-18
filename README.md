@@ -1,3 +1,6 @@
+## Application View
+![](https://github.com/amsuarezp18/Product-Manager-SAP-Gateway-/blob/main/images/prueba.png)
+
 ## Application Details
 |               |
 | ------------- |
